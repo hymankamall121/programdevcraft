@@ -1,0 +1,33 @@
+{
+  "name": "programdevcraft",
+  "version": "1.0.2",
+  "description": "programdevcraft",
+  "type": "module",
+  "main": "programdevcraft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hymankamall121/programdevcraft"
+  },
+  "website": "https://github.com/hymankamall121/programdevcraft.git",
+  "keywords": [
+    "programdevcraft"
+  ],
+  "author": "hymankamall121",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hymankamall121/programdevcraft/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/hymankamall121/programdevcraft#readme",
+  "dependencies": {
+    "devcodementor": "1.0.2",
+    "codecraftsensei": "1.0.2",
+    "devscriptwiz": "1.0.2"
+  }
+}
